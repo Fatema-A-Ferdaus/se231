@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T15:25:44.302Z" agent="5.0 (X11)" etag="X716OnOWGFCkqgeRi51e" version="17.4.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-04-18T15:31:31.729Z" agent="5.0 (X11)" etag="G4k4XAxyPiwicmm0HPqo" version="17.4.5" type="github" pages="7">
   <diagram id="SiSv3X5nw2qQ5kaKqXUT" name="Page-1">
     <mxGraphModel dx="519" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -814,7 +814,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b6mUx_MXlEVLq47oLxSR" name="Page-7">
-    <mxGraphModel dx="546" dy="364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,6 +838,30 @@
             <mxPoint x="480" y="270" as="sourcePoint" />
             <mxPoint x="530" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qNBEwbwl_17K-vePAKOi-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Balance&amp;lt; 1000&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=21;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="110.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qNBEwbwl_17K-vePAKOi-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qNBEwbwl_17K-vePAKOi-5" target="qNBEwbwl_17K-vePAKOi-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="430" as="sourcePoint" />
+            <mxPoint x="480" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNBEwbwl_17K-vePAKOi-9" value="&lt;b&gt;Withdraw Balance&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=2;fillColor=none;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="365" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qNBEwbwl_17K-vePAKOi-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qNBEwbwl_17K-vePAKOi-7" target="qNBEwbwl_17K-vePAKOi-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="450" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNBEwbwl_17K-vePAKOi-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Yes&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qNBEwbwl_17K-vePAKOi-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="470" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
