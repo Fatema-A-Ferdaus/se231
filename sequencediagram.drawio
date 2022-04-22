@@ -1,20 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T11:43:36.688Z" agent="5.0 (X11)" etag="wekatl_Z26ed0iD8Se71" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T13:34:11.713Z" agent="5.0 (X11)" etag="UmLo5Ve9e1Pd1fft9zbc" version="17.4.5" type="github">
   <diagram id="lUH7IYxGMJijNj0JPyck" name="Page-1">
-    <mxGraphModel dx="1483" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="horDpHeikH8RiV0g9dJc-3" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=80;" vertex="1" parent="1">
+        <mxCell id="horDpHeikH8RiV0g9dJc-3" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=80;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="100" width="180" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="horDpHeikH8RiV0g9dJc-5" value="Api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=80;" vertex="1" parent="1">
+        <mxCell id="horDpHeikH8RiV0g9dJc-5" value="Api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=80;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="100" width="180" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="horDpHeikH8RiV0g9dJc-6" value="Registratiion" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=90;" vertex="1" parent="1">
+        <mxCell id="horDpHeikH8RiV0g9dJc-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=23;strokeWidth=2;" vertex="1" parent="horDpHeikH8RiV0g9dJc-5">
+          <mxGeometry x="85" y="180" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-6" value="Registratiion" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=90;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="700" y="100" width="180" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="horDpHeikH8RiV0g9dJc-7" value="Authintication " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=95;" vertex="1" parent="1">
+        <mxCell id="horDpHeikH8RiV0g9dJc-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=23;strokeWidth=2;" vertex="1" parent="horDpHeikH8RiV0g9dJc-6">
+          <mxGeometry x="85" y="195" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-7" value="Authintication " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=95;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1010" y="100" width="180" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-10" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=95;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="105" width="180" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-11" value="&lt;font style=&quot;font-size: 23px&quot;&gt;request registration form&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=28;startArrow=none;" edge="1" parent="1" source="horDpHeikH8RiV0g9dJc-12" target="horDpHeikH8RiV0g9dJc-5">
+          <mxGeometry x="0.0403" y="15" width="80" relative="1" as="geometry">
+            <mxPoint x="290" y="250" as="sourcePoint" />
+            <mxPoint x="840" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="300" />
+            </Array>
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="295" width="10" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-13" value="" style="html=1;verticalAlign=bottom;endArrow=none;rounded=0;fontSize=28;" edge="1" parent="1" source="horDpHeikH8RiV0g9dJc-3" target="horDpHeikH8RiV0g9dJc-12">
+          <mxGeometry x="0.0403" y="15" width="80" relative="1" as="geometry">
+            <mxPoint x="189.33333333333348" y="335.0000000000001" as="sourcePoint" />
+            <mxPoint x="479" y="335.0000000000001" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-17" value="open registration form " style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1" target="horDpHeikH8RiV0g9dJc-6">
+          <mxGeometry x="-0.0291" y="20" width="80" relative="1" as="geometry">
+            <mxPoint x="480" y="320" as="sourcePoint" />
+            <mxPoint x="650" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="320" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-19" value="enter user mobile number" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=23;exitX=0.5;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="horDpHeikH8RiV0g9dJc-3" target="horDpHeikH8RiV0g9dJc-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="530" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
