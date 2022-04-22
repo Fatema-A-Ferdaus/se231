@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T11:29:47.886Z" agent="5.0 (X11)" etag="LQJp181aQJjZDJDDHUqq" version="17.4.5" type="github"><diagram id="lUH7IYxGMJijNj0JPyck" name="Page-1">zZRLb4QgEIB/DccmKJt9HFt3+zi0SWOTpqeGylRIUAyLVffXF+v4ymaT9tJ4Er4ZBvhACIuy+s7yQj4aAZqEVNSE7UkYhnSz9p+WNB0J2HbVkdQqgWwEsToBQoq0VAKOs0RnjHaqmMPE5Dkkbsa4taaap30aPZ+14CmcgTjh+py+KuEk0g2lY+AeVCr7qYM+kvE+G8FRcmGqCWIHwiJrjOtaWR2BbvX1Yrpxtxeiw8os5O43A55Wby/CAujrZ3vav+8ePqy7wipfXJe4Y1ysa3oF1pS5gLYIJeymkspBXPCkjVb+1D2TLtO+F/gmlgProL64zmDYvb84YDJwtvEp9aCwG4J3ZovdavQ/OJVT9b15jmeeDqVHK76BYv4gKVyepBVdmiS2PEnr3f9J8t3xV/6JTZ5EdvgG</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-22T11:43:36.688Z" agent="5.0 (X11)" etag="wekatl_Z26ed0iD8Se71" version="17.4.5" type="github">
+  <diagram id="lUH7IYxGMJijNj0JPyck" name="Page-1">
+    <mxGraphModel dx="1483" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="horDpHeikH8RiV0g9dJc-3" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=80;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="180" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-5" value="Api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=80;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="180" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-6" value="Registratiion" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=90;" vertex="1" parent="1">
+          <mxGeometry x="700" y="100" width="180" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="horDpHeikH8RiV0g9dJc-7" value="Authintication " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=28;size=95;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="100" width="180" height="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
